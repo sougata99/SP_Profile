@@ -1,1 +1,14 @@
+#navbar tr td a{
+    border:10px 5px;
+    padding:10px;
+    text-decoration:none;
+}
 
+#navbar tr td a:hover{
+    background-color: black;
+}
+
+#eduqual tr td{
+    font-size: 30px;
+    padding:28px;
+}
